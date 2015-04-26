@@ -3,7 +3,7 @@ Bundle to replicate the problem of optaplanner on OSGI
 
 HOW TO REPLICATE THE PROBLEM
 
-<li>
+
 * Download Servicmix 5.4.0 and unzip it  (http://servicemix.apache.org/downloads.html)
 * compile this bundle (mvn install)
 * copy the jar from the bundle target dir into the servicmix deploy dir
